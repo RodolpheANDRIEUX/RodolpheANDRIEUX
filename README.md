@@ -44,6 +44,10 @@ repos avec 'show more'
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
 
 <table>
+  <tr style="visibility: hidden;">
+    <td>──────────────────────────</td>
+    <td></td>
+  </tr>
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolpheANDRIEUX&exclude_repo=&hide=html,CMake&text_color=c9cacc&bg_color=1d1f21&langs_count=8"  alt="top languages"/></td>
     <td>
@@ -51,7 +55,7 @@ repos avec 'show more'
 </td>
   </tr>
   <tr style="visibility: hidden;">
-    <td>───────────────────────────</td>
+    <td>──────────────────────────</td>
     <td></td>
   </tr>
 </table>
