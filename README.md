@@ -51,7 +51,7 @@ repos avec 'show more'
 </td>
   </tr>
   <tr style="visibility: hidden;">
-    <td>                                </td>
+    <td>──────────────────────────────</td>
     <td></td>
   </tr>
 </table>
