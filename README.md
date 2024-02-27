@@ -43,6 +43,7 @@ repos avec 'show more'
 <details style="cursor: pointer">
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
 
+<br>
 <table>
   <tr style="visibility: hidden;">
     <td>──────────────────────────</td>
